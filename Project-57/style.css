@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    font-weight: bolder;
+    background-color: aqua;
+
+
+}
+
+img {
+    height: 100px;
+    width: 120px;
+    border-radius: 30px;
+
+}
